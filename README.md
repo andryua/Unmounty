@@ -21,4 +21,4 @@
 
 1. Клонуйте цей репозиторій на свій Mac:
    ```bash
-   git clone https://github.com/ВАШ_НІК/Unmounty.git
+   git clone https://github.com/andryua/Unmounty.git
